@@ -1,0 +1,24 @@
+Carton: Un joueur qui commet une faute reçoit un carton jaune. S’il commet une faute particulièrement grave ou qu’il reçoit un carton jaune pour la deuxième fois, il reçoit un carton rouge. Un carton rouge entraîne l’expulsion du joueur qui n’est pas remplacé. Son équipe joue alors en infériorité numérique.
+
+Corner: Si un ballon sort du terrain derrière la ligne des buts, il existe deux cas de figure. Soit le dernier joueur à l’avoir touché est un membre de l’équipe qui défend (l’action se passe donc devant son propre but). Dans ce cas, il s’agit d’un corner et un attaquant de l’équipe adverse peut dégager le ballon depuis le coin le plus proche du terrain.
+
+Si le dernier joueur à avoir touché le ballon est un membre de l’équipe qui attaque (l’action se passe donc devant le but de l’autre équipe), il s’agit d’un dégagement des six mètres. Un défenseur de l’équipe adverse peut alors dégager le ballon depuis la surface des buts.
+
+Coup franc: Le coup franc est une réparation accordée à l’équipe qui a subi une faute, par exemple si un de ses joueurs a subi un croche-pied, si un joueur touche le ballon avec la main ou en cas de hors-jeu. Le ballon est alors posé au plus près de là où a été commise la faute et un joueur de l’équipe adverse peut le dégager.
+
+L’arbitre peut accorder deux sortes de coups francs en fonction de la gravité de la faute: le coup franc direct ou indirect. En cas de coup franc direct, le joueur peut directement essayer de tirer dans les buts. En cas de coup franc indirect: le joueur ne peut pas directement tirer dans les buts. Il doit faire une passe.
+
+Hors-jeu: Un joueur est hors-jeu si, quand on lui passe le ballon, il est plus près du but que le dernier défenseur adverse. Cette règle a été mise en place pour éviter que des joueurs fassent la «carotte», c’est-à-dire qu’ils restent plantés à côté du but adverse en attendant qu’on leur passe le ballon. La situation de hors-jeu n’existe que lorsque le joueur reçoit le ballon depuis l’arrière. S’il court derrière le ballon, il peut se diriger vers le but adverse sans se soucier de l’emplacement de ses adversaires.
+
+Penalty: Un penalty est accordé à l’équipe qui attaque lorsqu’elle est victime d’une faute dans la surface de réparation. Dans ce cas, le ballon est posé sur le point peint face au but dans la surface de réparation. Tous les autres joueurs restent en arrière. Seul le gardien peut arrêter un penalty.
+
+Surface de but: Il s’agit du petit rectangle situé devant le but.
+
+Surface de réparation: Il s’agit du grand rectangle situé devant le but et qui englobe la surface de but. La surface de réparation est aussi appelée surface des 16 mètres.
+
+Tirs au but: Les tirs aux buts sont tirés dans certains matches à la fin du temps réglementaire ou des prolongations lorsque les deux équipes sont toujours à égalité. Ils se jouent comme les penalties si ce n’est que les autres joueurs doivent rester dans le rond central.
+
+Touche: Si le ballon sort du terrain par les longs côtés (lignes de touche), il est dégagé avec les mains par un joueur de l’équipe adverse de celui qui a touché le ballon en dernier. Un but ne peut pas être marqué directement de cette manière.
+
+
+
